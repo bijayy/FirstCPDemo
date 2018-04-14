@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstCPDemo</string>
+    <string name="required_text">Required</string>
+    <string name="blank_text"></string>
+    <string name="something_went_wrong_message">Something went wrong. Try again ...</string>
+    <string name="no_data_message">No data available...</string>
+    <string name="record_deleted_message">Total record deleted :</string>
+    <string name="record_updated_message">Total record updated :</string>
+    <string name="no_record_updated_message">No record updated</string>
+    <string name="data_added_message">Data added successfully at :</string>
+    <string name="record_add_fail_message">Unable to add record. Try again...</string>
+    <string name="no_record_deleted">No record deleted</string>
+    <string name="provide_insert_data_message">Provide both Name and Age to insert...</string>
+    <string name="provide_update_data_message">Provide Name and New Name to update...</string>
+    <string name="provide_delete_data_message">Provide existing Name to delete...</string>
+</resources>
